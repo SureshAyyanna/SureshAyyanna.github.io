@@ -1,5 +1,8 @@
 ## Portfolio
 
+<h1 align="center">Hi 👋, I'm Suresh Ayyanna</h1>
+<h3 align="center">Senior Test Automation Engineer - SDET</h3>
+
 - **Email**: sureshayyanna1@gmail.com
 - **LinkedIn**: https://www.linkedin.com/in/sureshayyanna/
 - **Resume**: https://github.com/SureshAyyanna/Resume/blob/master/SureshAyyanna_6%2BYear_SDET_QA.pdf
@@ -12,11 +15,10 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/whatsapp.svg" />][whatsapp]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
 </br>
-
-Software testing professional with 6+ years with Manual Testing and Automation Testing in Healthcare and CMT domain. I worked extensively in Functional Testing, Retesting and Regression. Experienced in identifying the scenarios to be automated, script development and utility function development using Selenium(JAVA) and Robot framework(Python).
-
 ---
 
+Software testing professional with 6+ years with Manual Testing and Automation Testing in Healthcare and CMT domain. I worked extensively in Functional Testing, Retesting and Regression. Experienced in identifying the scenarios to be automated, script development and utility function development using Selenium(JAVA) and Robot framework(Python).
+---
 ## I'm a Software Test Engineer!! 
 
 </br>🔭 6+ years of Software industry experience in Software testing (Manual, Automation, DB, API and Web services testing). 
